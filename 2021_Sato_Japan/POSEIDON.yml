@@ -1,0 +1,13 @@
+poseidonVersion: 2.7.1
+title: 2021_Sato_Japan
+description: Empty package template. Please add a description
+packageVersion: 0.1.0
+lastModified: 2024-09-12
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Sato_Japan.bed
+  snpFile: 2021_Sato_Japan.bim
+  indFile: 2021_Sato_Japan.fam
+  snpSet: 1240K
+jannoFile: 2021_Sato_Japan.janno
+bibFile: 2021_Sato_Japan.bib
