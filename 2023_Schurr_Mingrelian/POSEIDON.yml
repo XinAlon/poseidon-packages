@@ -1,0 +1,13 @@
+poseidonVersion: 2.7.1
+title: 2023_Schurr_Mingrelian
+description: Empty package template. Please add a description
+packageVersion: 0.1.0
+lastModified: 2024-09-12
+genotypeData:
+  format: PLINK
+  genoFile: 2023_Schurr_Mingrelian.bed
+  snpFile: 2023_Schurr_Mingrelian.bim
+  indFile: 2023_Schurr_Mingrelian.fam
+  snpSet: 1240K
+jannoFile: 2023_Schurr_Mingrelian.janno
+bibFile: 2023_Schurr_Mingrelian.bib
