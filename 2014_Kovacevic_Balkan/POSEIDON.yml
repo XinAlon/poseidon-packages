@@ -1,0 +1,13 @@
+poseidonVersion: 2.7.1
+title: 2014_Kovacevic_Balkan
+description: Empty package template. Please add a description
+packageVersion: 0.1.0
+lastModified: 2024-09-12
+genotypeData:
+  format: PLINK
+  genoFile: 2014_Kovacevic_Balkan.bed
+  snpFile: 2014_Kovacevic_Balkan.bim
+  indFile: 2014_Kovacevic_Balkan.fam
+  snpSet: 1240K
+jannoFile: 2014_Kovacevic_Balkan.janno
+bibFile: 2014_Kovacevic_Balkan.bib
