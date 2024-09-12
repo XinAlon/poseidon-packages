@@ -1,0 +1,13 @@
+poseidonVersion: 2.7.1
+title: 2016_Haber_Armenian
+description: Empty package template. Please add a description
+packageVersion: 0.1.0
+lastModified: 2024-09-12
+genotypeData:
+  format: PLINK
+  genoFile: 2016_Haber_Armenian.bed
+  snpFile: 2016_Haber_Armenian.bim
+  indFile: 2016_Haber_Armenian.fam
+  snpSet: 1240K
+jannoFile: 2016_Haber_Armenian.janno
+bibFile: 2016_Haber_Armenian.bib
