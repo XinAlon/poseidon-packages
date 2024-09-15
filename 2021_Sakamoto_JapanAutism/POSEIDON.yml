@@ -1,0 +1,13 @@
+poseidonVersion: 2.7.1
+title: 2021_Sakamoto_JapanAutism
+description: Empty package template. Please add a description
+packageVersion: 0.1.0
+lastModified: 2024-09-15
+genotypeData:
+  format: PLINK
+  genoFile: 2021_Sakamoto_JapanAutism.bed
+  snpFile: 2021_Sakamoto_JapanAutism.bim
+  indFile: 2021_Sakamoto_JapanAutism.fam
+  snpSet: 1240K
+jannoFile: 2021_Sakamoto_JapanAutism.janno
+bibFile: 2021_Sakamoto_JapanAutism.bib
