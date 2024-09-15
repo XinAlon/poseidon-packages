@@ -1,0 +1,13 @@
+poseidonVersion: 2.7.1
+title: 2020_Karafet_Daghestan
+description: Empty package template. Please add a description
+packageVersion: 0.1.0
+lastModified: 2024-09-15
+genotypeData:
+  format: PLINK
+  genoFile: 2020_Karafet_Daghestan.bed
+  snpFile: 2020_Karafet_Daghestan.bim
+  indFile: 2020_Karafet_Daghestan.fam
+  snpSet: 1240K
+jannoFile: 2020_Karafet_Daghestan.janno
+bibFile: 2020_Karafet_Daghestan.bib
