@@ -1,0 +1,13 @@
+poseidonVersion: 2.7.1
+title: 2019_Urnikyte_Lithuanian
+description: Empty package template. Please add a description
+packageVersion: 0.1.0
+lastModified: 2024-10-26
+genotypeData:
+  format: PLINK
+  genoFile: 2019_Urnikyte_Lithuanian.bed
+  snpFile: 2019_Urnikyte_Lithuanian.bim
+  indFile: 2019_Urnikyte_Lithuanian.fam
+  snpSet: 1240K
+jannoFile: 2019_Urnikyte_Lithuanian.janno
+bibFile: 2019_Urnikyte_Lithuanian.bib
